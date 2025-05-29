@@ -1,0 +1,25 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    color: blue;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.box2{
+    color: red;
+}
+.box3{
+    color: rgb(3, 255, 3);
+    background-color: rgb(9, 112, 38);
+}
+.box4{
+    color: red;
+    background-color: aqua;
+}
+.box5{
+    text-align: center;
+    color: red;
+}
